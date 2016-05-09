@@ -1,5 +1,6 @@
 log4j2-logstash-jsonevent-layout
 ================================
+*Link to the [Logmatic.io documentation](http://doc.logmatic.io/docs/java-log4j2-slf4j)*
 
 Log4J2 Layout as a Logstash "json_event"
 
